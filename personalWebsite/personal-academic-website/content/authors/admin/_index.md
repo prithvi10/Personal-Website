@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Masters in Science in Computer Science
+    - course: Master of Science in Computer Science
       institution: Georgia Institute of Technology
       year: 2022-2024
     - course: Bachelor in Computer Engineering

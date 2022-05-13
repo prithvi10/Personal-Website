@@ -1,5 +1,7 @@
 ### My Personal Website
 Prepared using Hugo and Wowchemy
+Access it using the following Domain
+http://prithvirajpawar.in/
 
 ### Build and Run locally
 Build with the command
